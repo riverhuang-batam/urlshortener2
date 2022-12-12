@@ -19,7 +19,7 @@
   "homepage": "https://github.com/riverhuang-batam/urlshortener2#readme",
   "dependencies": {
     "ejs": "^3.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.9.7",
     "shortid": "^2.2.15"
   },
